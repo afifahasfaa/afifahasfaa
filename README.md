@@ -13,7 +13,7 @@ I am an aspiring Data Analyst with a background in Mathematics Education. Curren
 
 ## 📈 My Projects
 - [Social Media Analytics] (https://github.com/afifahasfaa/social_media_analytics)
-- [Kimia Farma Performance Analytics] (...)
+- [Kimia Farma Performance Analytics] (https://github.com/afifahasfaa/kimia_farma_performance_analytics)
 - [Global Retail Company Analytics] (...)
 
 ## 📖 Currently Learning
