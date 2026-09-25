@@ -17,7 +17,6 @@ I am an aspiring Data Analyst with a background in Mathematics Education. Curren
 - [Global Retail Company Analytics] (...)
 
 ## 📖 Currently Learning
-- Visualization with Tableau and Power BI
 - SQL advanced skills
 - Python for Data Science
 
