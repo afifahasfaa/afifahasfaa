@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Afifah👋
 
-<!--
-**afifahasfaa/afifahasfaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Data Analyst with a background in Mathematics Education. Currently, I am refining my analytical skills by participating in a bootcamp and building impactful projects using Excel, SQL, Looker, Tableau, Power BI, and Python.
 
-Here are some ideas to get you started:
+## ⚙️ Tools I work with
+- Microsoft Excel
+- SQL
+- Looker Studio
+- Tableau
+- Power BI
+- Python
+- Google Sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📈 My Projects
+- [Social Media Analytics] (...)
+- [Kimia Farma Performance Analytics] (...)
+- [Global Retail Company Analytics] (...)
+
+## 📖 Currently Learning
+- Visualization with Tableau and Power BI
+- SQL advanced skills
+- Python for Data Science
+
+## Let's Connect!
+[Linkedin](https://www.linkedin.com/in/afifahnur26)
 -->
